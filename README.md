@@ -6,5 +6,8 @@ Welcome to the React Weather App! This project is a simple weather application b
 
 To run the React Weather App locally on your machine, follow these steps:
 
-Clone this repository to your local machine using Git:
+Clone this repository to your local machine using Git: git clonehttps://github.com/smruti-sourav/Weather-app.git
 
+install npm
+
+npm start
